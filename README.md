@@ -42,6 +42,6 @@ Enfermeira mestre em gestão e economia da saúde e estudante de ads
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LucasWanderleyGomes/LucasWanderleyGomes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/elisangelacsantos/elisangelacsantos/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
