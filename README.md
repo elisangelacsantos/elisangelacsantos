@@ -8,9 +8,7 @@
   <img src="https://raw.githubusercontent.com/elisangelacsantos/elisangelacsantos/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -32,6 +30,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/elisangelacsantos/elisangelacsantos/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/elisangelacsantos/snake-output/snake.svg" alt="Snake animation" />
 
 ###
